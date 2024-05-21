@@ -12,7 +12,7 @@
     <a href="https://github.com/OgSamu/stride"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://youtu.be/Z2PDl3NZoxk?feature=shared">View Demo</a>
   </p>
 </div>
 
